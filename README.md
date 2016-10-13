@@ -2,7 +2,7 @@
 
 ![Wunderlist Navigator](https://github.com/pedrocatre/wunderlist-navigator/raw/master/assets/icons/wunderlist-navigator-icon.png)
 
-> Quickly switch between the your wunderlist lists.
+> Quickly switch between your wunderlist lists.
 
 ## Installation
 
