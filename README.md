@@ -10,11 +10,11 @@ No setup required. [Install it from the Chrome Webstore](https://chrome.google.c
 
 ## Usage
 
-Follow the instructions below
-
 - Press **COMMAND+SHIFT+b** or **CTRL+SHIFT+b** to activate and start typing the keywords to filter lists
 
 - Use `Enter` key or mouse click to jump to list
+
+You can also define a custom shortcut in chrome://extensions/ > Keyboard shortcuts
 
 ## Note
 
