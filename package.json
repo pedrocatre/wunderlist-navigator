@@ -1,0 +1,27 @@
+{
+  "name": "wunderlist-navigator",
+  "version": "1.0.0",
+  "description": "Quickly navigate between wunderlist lists",
+  "main": "wunderlist-navigator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pedrocatre/wunderlist-navigator.git"
+  },
+  "keywords": [
+    "chrome",
+    "plugin",
+    "extension",
+    "wunderlist"
+  ],
+  "author": "Pedro Catré",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrocatre/wunderlist-navigator/issues"
+  },
+  "homepage": "https://github.com/pedrocatre/wunderlist-navigator#readme",
+  "dependencies": {
+  }
+}

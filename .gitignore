@@ -1,0 +1,10 @@
+.idea
+node_modules
+dist
+.tmp
+.sass-cache
+.idea/
+*sublime*
+*.DS_Store
+npm-debug.log
+*.iml
