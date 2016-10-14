@@ -4,6 +4,8 @@
 
 > Quickly switch between your wunderlist lists.
 
+![Demo](https://github.com/pedrocatre/wunderlist-navigator/raw/master/screenshots/demo.gif)
+
 ## Installation
 
 No setup required. [Install it from the Chrome Webstore](https://chrome.google.com/webstore/detail/wunderlistnavigator/fjpdombpmbjjdmcbdkkpefkjokgmffah)
