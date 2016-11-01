@@ -24,7 +24,6 @@
         "https://www.wunderlist.com/*"
       ],
       "css": [
-        "assets/css/wunderlist-navigator.css",
         "assets/lib/omni-search/dist/css/omni.css"
       ]
     },
