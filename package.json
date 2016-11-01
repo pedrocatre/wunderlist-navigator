@@ -23,5 +23,6 @@
   },
   "homepage": "https://github.com/pedrocatre/wunderlist-navigator#readme",
   "dependencies": {
+    "omni-search": "0.0.1"
   }
 }

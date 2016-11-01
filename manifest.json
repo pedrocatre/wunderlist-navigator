@@ -24,7 +24,8 @@
         "https://www.wunderlist.com/*"
       ],
       "css": [
-        "assets/css/wunderlist-navigator.css"
+        "assets/css/wunderlist-navigator.css",
+        "/Users/pedrocatre/Desktop/projects/wunderlist-navigator/node_modules/omni-search/dist/css/omni.css"
       ]
     },
     {
@@ -34,6 +35,7 @@
       "js": [
         "assets/lib/sanitize-html.js",
         "assets/lib/jquery.js",
+        "node_modules/omni-search/dist/js/omni.search.js",
         "wunderlist-navigator.js"
       ]
     }
